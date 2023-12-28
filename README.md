@@ -6,6 +6,8 @@ there are some screen shots of the application is given below , though which you
 show there is the image in which you can see the expense detail  with the graph points in month wise
 ![Screenshot (58)](https://github.com/priyanshukumar64282/TheExpenseTracker/assets/97128691/0903d083-f8cc-455e-bfd8-f1a01e2de2b1)
 
+
+
 In this image you can see we are filtering the expense by year and set the year from 2021 to 2022
 ![Screenshot (59)](https://github.com/priyanshukumar64282/TheExpenseTracker/assets/97128691/1670540a-97b5-47fd-b18d-fec8eaed35c7)
 
@@ -25,5 +27,5 @@ so, we put the detail of the expense here
 now we click on the "Add Expense" button 
 ![Screenshot (64)](https://github.com/priyanshukumar64282/TheExpenseTracker/assets/97128691/3eb870d9-991c-4fc7-b7ce-c3dadfbae5f7)
 
-After that we can see there is a new expense is shown in the year of 2019
+After that we can see there is a new expense is shown in the year of 2019 and also the graph is updated.
 ![Screenshot (65)](https://github.com/priyanshukumar64282/TheExpenseTracker/assets/97128691/85a8f554-3f6c-4cd1-9134-98018dff9e7d)
